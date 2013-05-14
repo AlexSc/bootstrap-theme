@@ -27,7 +27,7 @@ as compass might pick one of those up and site generation would fail.
 
 Install the theme and generate site:
 
-     $ rake install['bootstrap']
+     $ rake install['bootstrap'] (rake install[bootstrap] if you are using zsh)
      $ rake generate
 
 ## Code snippet colors
